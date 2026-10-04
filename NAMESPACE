@@ -1,1 +1,2 @@
-exportPattern("^[[:alpha:]]+")
+export(pretty_hist)
+export(z_score)
